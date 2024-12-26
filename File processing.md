@@ -2,7 +2,7 @@
 
 ---
 
-## File Processing in Python
+## File Processing 
 
 File processing in Python involves handling files for various operations such as creating, reading, writing, updating, and deleting content. Python provides a simple and efficient way to work with files using built-in functions and context management.
 
