@@ -1,4 +1,4 @@
-Here’s an expanded version suitable for GitHub:
+
 
 ---
 
@@ -76,5 +76,3 @@ with open("example.txt", "r") as file:
 ```
 
 ---
-
-Feel free to customize this content as per your GitHub repository!
