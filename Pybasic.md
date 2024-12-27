@@ -1,4 +1,3 @@
-Here’s an explanation of each basic concept in Python, one by one:
 
 ### 1. **Variables**
 Variables are used to store data that can be used later in the program. A variable is created when you assign a value to it.
@@ -132,4 +131,3 @@ import math
 print(math.sqrt(16))  # Output: 4.0
 ```
 
-These are the basic concepts that form the foundation of Python programming.
