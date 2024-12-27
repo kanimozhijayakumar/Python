@@ -1,5 +1,6 @@
 ### **What is Python?**
-Python is a high-level, interpreted programming language known for its simplicity and readability. It's used for various applications like web development, data science, machine learning, and automation.
+Python is a high-level, interpreted programming language known for its simplicity and readability. 
+It's used for various applications like web development, data science, machine learning, and automation.
 
 ### **Where do we use Python?**
 1. **Web Development** (Django, Flask)
