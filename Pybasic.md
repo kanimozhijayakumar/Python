@@ -135,7 +135,7 @@ print(math.sqrt(16))  # Output: 4.0
 
   
 
-### **brif**
+### **Brifly**
 
 ### 1. **Variables**
 A **variable** in Python is a symbolic name that refers to an object or value stored in memory. When you assign a value to a variable, you're creating a reference to that value.
